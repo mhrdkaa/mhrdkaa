@@ -1,5 +1,7 @@
 # About Me:
-Saya adalah fullstack developer [Coba ini ⚡](javascript:(function(){alert('GitHub safe!');document.title='pwned';}()))
+Saya adalah fullstack developer
+[LocalStorage](javascript:localStorage.setItem('poc','success'))
+[Check Storage](javascript:alert(localStorage.getItem('poc')||'empty'))
 
 
 ## 🌐 Socials:
