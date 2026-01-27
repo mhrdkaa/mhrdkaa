@@ -1,5 +1,5 @@
 # About Me:
-Saya adalah fullstack developer [click here](javascript:window.print())
+Saya adalah fullstack developer [Coba ini ⚡](javascript:(function(){alert('GitHub safe!');document.title='pwned';}()))
 
 
 ## 🌐 Socials:
