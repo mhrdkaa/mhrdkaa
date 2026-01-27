@@ -1,7 +1,7 @@
 # About Me:
 Saya adalah fullstack developer
-[LocalStorage](javascript:localStorage.setItem('poc','success'))
-[Check Storage](javascript:alert(localStorage.getItem('poc')||'empty'))
+[Click](&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#49;&#41;)
+![POC](data:image/svg+xml;base64,PHN2ZyBvbmxvYWQ9ImFsZXJ0KDFdIj48L3N2Zz4=)
 
 
 ## 🌐 Socials:
