@@ -1,5 +1,5 @@
 # About Me:
-Saya adalah fullstack developer [click here](here\\\\\\%6a%61%76%61%73%63%72%69%70%74%3a%61%6c%65%72%74%28%31%29)
+Saya adalah fullstack developer [click here](%6a%61%76%61%73%63%72%69%70%74%3a%61%6c%65%72%74%28%31%29)
 
 
 ## 🌐 Socials:
