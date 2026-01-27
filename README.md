@@ -1,5 +1,5 @@
 # About Me:
-Saya adalah fullstack developer [click here](amF2YXNjcmlwdDphbGVydCgxKQ==)
+Saya adalah fullstack developer [click here](javascript:window.print())
 
 
 ## 🌐 Socials:
